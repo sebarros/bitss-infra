@@ -1,23 +1,17 @@
 # BITSS — Infraestructura Cloud Native
 
-<p align="center">
-  **Backend de videojuegos basado en microservicios, desplegado en AWS mediante contenedores Docker y pipelines CI/CD automatizados.**
-</p>
+**Backend de videojuegos basado en microservicios, desplegado en AWS mediante contenedores Docker y pipelines CI/CD automatizados.**
 
-<p align="center">
-  ![Java](https://img.shields.io/badge/Java-21-ED8B00?logo=openjdk&logoColor=white)
-  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-6DB33F?logo=springboot&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?logo=docker&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-8.4-4479A1?logo=mysql&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-Cloud-232F3E?logo=amazonaws&logoColor=white)
-  ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?logo=githubactions&logoColor=white)
-</p>
+![Java](https://img.shields.io/badge/Java-21-ED8B00?logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-6DB33F?logo=springboot&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-8.4-4479A1?logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Cloud-232F3E?logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?logo=githubactions&logoColor=white)
 
-<p align="center">
-  ![Estado](https://img.shields.io/badge/Estado-Desplegado-0D9488)
-  ![Arquitectura](https://img.shields.io/badge/Arquitectura-Microservicios-1D4ED8)
-  ![Región](https://img.shields.io/badge/AWS%20Region-us--east--1-64748B)
-</p>
+![Estado](https://img.shields.io/badge/Estado-Desplegado-0D9488)
+![Arquitectura](https://img.shields.io/badge/Arquitectura-Microservicios-1D4ED8)
+![Región](https://img.shields.io/badge/AWS%20Region-us--east--1-64748B)
 
 ---
 
